@@ -9,3 +9,19 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001186/index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001221/index.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克 4K
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index.m3u8
+
+
+#EXTINF:-1 tvg-id="4K电影" tvg-name="4K电影" tvg-logo="https://live.fanmingming.com/tv/4K电影.png" group-title="4K",4K电影
+http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/emdy4k_8000.m3u8
+#EXTINF:-1 tvg-id="4K现场" tvg-name="4K现场" tvg-logo="https://live.fanmingming.com/tv/4K现场.png" group-title="4K",4K现场
+http://180.122.80.193:8888/udp/239.49.8.222:6000
+#EXTINF:-1 tvg-id="4K综艺" tvg-name="4K综艺" tvg-logo="https://live.fanmingming.com/tv/4K综艺.png" group-title="4K",4K综艺
+http://39.135.49.209:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1&IASHttpSessionId=OTT5373420220419125644103051
+#EXTINF:-1 tvg-id="河南卫视4K" tvg-name="河南卫视4K" tvg-logo="https://live.fanmingming.com/tv/河南卫视4K.png" group-title="4K",河南卫视4K
+http://218.29.135.2:4000/udp/225.1.4.254:1300
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="4K",都市剧场
+http://[2409:8087:4402:20:1:1216:401:3b]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226324/index.m3u8
+#EXTINF:-1 tvg-id="广东综艺" tvg-name="广东综艺" tvg-logo="https://live.fanmingming.com/tv/广东综艺.png" group-title="4K",广东综艺
+http://113.111.46.231:4022/udp/239.77.1.236:5146
+#EXTINF:-1 tvg-id="北京IPTV4K" tvg-name="北京IPTV4K" tvg-logo="https://live.fanmingming.com/tv/北京IPTV4K.png" group-title="4K",北京IPTV4K
+http://221.179.217.94/PLTV/88888888/224/3221226550/1.m3u8
