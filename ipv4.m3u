@@ -69,7 +69,7 @@ http://8.130.35.211/ysp/?id=ystq
 http://8.130.35.211/ysp/?id=wsjk
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.eu.org/logo/CGTN.png" group-title="央视IPV4",CGTN英语
 http://8.130.35.211/ysp/?id=cgtn
-#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://epg.112114.eu.org/logo/CGTN记录.png" group-title="央视IPV4",CGTN纪录
+#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/logo/CGTN记录.png" group-title="央视IPV4",CGTN纪录
 http://8.130.35.211/ysp/?id=cgtnjl
 #EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://epg.112114.eu.org/logo/CGTN西语.png" group-title="央视IPV4",CGTN西语
 http://8.130.35.211/ysp/?id=cgtne
