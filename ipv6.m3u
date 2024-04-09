@@ -322,5 +322,5 @@ http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 https://iptv.hiper25.com/TVB/video.m3u8
 #EXTINF:-1 tvg-id="/明珠台" tvg-name="/明珠台" tvg-logo="https://live.fanmingming.com/tv/明珠台.png" group-title="卫视",明珠台
 https://iptv.hiper25.com/Pearl/video.m3u8
-#EXTINF:-1 tvg-id="澳门澳视" tvg-name="澳门澳视" tvg-logo="https://live.fanmingming.com/tv/澳门澳视.png" group-title="卫视",澳门澳视
+#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://live.fanmingming.com/tv/澳视澳门.png" group-title="卫视",澳视澳门
 https://iptv.hiper25.com/TDM/video.m3u8
